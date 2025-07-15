@@ -2,7 +2,7 @@
 
 Клиентский модпак для сервера GattinoLand
 
-Скачать модпак 1.21.1 [Версия 2.0] (20.01.2024):
+Скачать модпак 1.21.1 [Версия 1.0] (15.07.2025):
 
 [https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip)
 
@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![Emote](https://github.com/akva5/gattinolandpacks/blob/main/GL-Emote.png) 
+![Emote](https://github.com/akva5/gattinolandpacks/blob/main/GL-Emote.png)
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
