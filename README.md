@@ -1,4 +1,4 @@
-![GattinoLandPacks](https://github.com/akva5/purrworldpacks/blob/main/PurrWorldPacks.png)
+![GattinoLandPacks](https://github.com/akva5/gattinolandpacks/blob/main/GattinoLandPacks.png)
 
 Клиентский модпак для сервера GattinoLand
 
