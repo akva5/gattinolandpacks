@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![Emote](https://github.com/akva5/purrworldpacks/blob/main/PW-Emote.png) 
+![Emote](https://github.com/akva5/gattinolandpacks/blob/main/GL-Emote.png) 
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
