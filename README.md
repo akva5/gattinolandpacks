@@ -4,9 +4,7 @@
 
 Скачать модпак 1.21.1 [Версия 1.0] (15.07.2025):
 
-[https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/PurrWorldPack.2.0.Fabric-1.16.5.zip)
-
-**Все сборки**: [https://github.com/akva5/purrworldpacks/releases](https://github.com/akva5/purrworldpacks/releases)
+[https://github.com/akva5/gattinolandpacks/releases/download/1.0/GattinoLandPack.1.0.Fabric-1.21.1.zip](https://github.com/akva5/gattinolandpacks/releases/download/1.0/GattinoLandPack.1.0.Fabric-1.21.1.zip)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -14,7 +12,7 @@
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
 
-[https://github.com/akva5/purrworldpacks/releases/download/2.0/emotes.zip](https://github.com/akva5/purrworldpacks/releases/download/2.0/emotes.zip)
+[https://github.com/akva5/gattinolandpacks/releases/download/1.0/emotes.zip](https://github.com/akva5/gattinolandpacks/releases/download/1.0/emotes.zip)
 
 -----------------------------------------------------------------------------------------------------
 
