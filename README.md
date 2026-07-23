@@ -11,6 +11,7 @@
 ![Emote](https://github.com/akva5/gattinolandpacks/blob/main/GL-Emote.png)
 
 РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
+
 БАЗОВЫЙ ПАК ДЛЯ КОМФОРТНОЙ ИГРЫ!
 
 [https://github.com/akva5/gattinolandpacks/releases/download/1.0/emotes.zip](https://github.com/akva5/gattinolandpacks/releases/download/1.0/emotes.zip)
@@ -18,6 +19,7 @@
 -----------------------------------------------------------------------------------------------------
 
 САМЫЙ ОГРОМНЫЙ ПАК ЭМОЦИЙ ЕГО СКАЧИВАТЬ НЕ ОБЯЗАТЕЛЬНО
+
 ТОЛЬКО ЕСЛИ ВЫ ХОТИТЕ ЕЩЕ БОЛЬШЕ ЭМОЦИЙ ТУТ СОБРАНО ВСЁ!
 [https://github.com/akva5/gattinolandpacks/releases/download/2.0/emotes.zip](https://github.com/akva5/gattinolandpacks/releases/download/2.0/emotes.zip)
 
